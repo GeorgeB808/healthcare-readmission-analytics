@@ -1,0 +1,37 @@
+# Raw and cleaned healthcare datasets
+
+data/raw/
+data/cleaned/
+
+# Credentials and environment variables
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Database dumps and backups
+
+*.sql.gz
+*.dump
+*.backup
+
+# Power BI temporary and cache files
+
+*.pbi/
+*.pbix.autosave
+*.tmp
+
+# Python cache files
+
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini

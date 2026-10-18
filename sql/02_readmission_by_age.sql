@@ -1,0 +1,5 @@
+-- Key finding:
+-- The highest 30-day readmission rate was among patients aged 20–29
+-- (14.24%). Patients aged 70–89 also showed elevated readmission rates.
+-- Both readmission rates and encounter volumes should be considered
+-- when prioritizing quality-improvement investigations.
